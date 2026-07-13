@@ -7,18 +7,18 @@ function App() {
      const[show, setShow]= useState(true);
 
   const studentdata = [{
-    name: "John Doe",
+    name: "Riya",
     age: 20,
     grade: "A",
     course: "Computer Science"
   }, {
-    name: "Jane Smith",
+    name: "Siya",
     age: 22,
     grade: "B",
     course: "Mathematics"
 
     }, {
-    name: "Bob Johnson",
+    name: "Mani",
     age: 21,
     grade: "C",
     course: "Physics"
